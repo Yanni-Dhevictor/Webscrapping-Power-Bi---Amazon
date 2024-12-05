@@ -5,7 +5,8 @@ Este projeto analisa dados coletados de um e-commerce gamer, focado em peças de
 1. Entendimento do Negócio
 Segmento: Comércio eletrônico de produtos gamers.
 Objetivo: Maximizar lucros e otimizar operações com base em insights sobre vendas e comportamento do consumidor.
-2. Dados Coletados
+
+3. Dados Coletados
 Fonte: Web scraping de um e-commerce popular.
 Campos Analisados:
 Nome do Produto
@@ -13,7 +14,8 @@ Preço
 Avaliações (quantidade e nota média)
 Disponibilidade em estoque
 Categoria do produto
-3. Ferramentas Utilizadas
+
+4. Ferramentas Utilizadas
 Python: Análise e manipulação de dados.
 Jupyter Notebook: Ambiente interativo de desenvolvimento.
 Bibliotecas:
@@ -28,7 +30,7 @@ Distribuição de Preços por Categoria
 Receita Mensal por Produto
 Produtos mais Vendidos x Produtos Melhor Avaliados
 Representatividade de Receita por Categoria
-📷 Adicione aqui capturas de tela relevantes para demonstrar as análises do projeto.
+
 
 💡 Insights Obtidos
 
@@ -57,6 +59,7 @@ bash
 Copiar código
 jupyter notebook "Projeto - Análise de Dados no Comércio Eletrônico Gamer - 30_10.ipynb"
 Execute as células para gerar as análises e gráficos.
+
 📈 Resultados no Dashboard
 Um dashboard no Power BI foi integrado ao projeto para demonstrar os dados de forma visual e interativa. Ele contém as seguintes análises:
 
@@ -64,10 +67,13 @@ Receita total e receita por categoria.
 Produtos mais vendidos e mais bem avaliados.
 Representatividade das categorias no faturamento total.
 Estoque atual por categoria.
-📷 Inclua capturas de tela do dashboard aqui.
+
 
 📝 Contribuições
 Se você deseja contribuir com melhorias ou expandir este projeto, sinta-se à vontade para enviar um pull request ou sugestões!
 
 📧 Contato
-Para dúvidas ou mais informações, entre em contato pelo e-mail ou GitHub do autor.
+Para dúvidas ou mais informações, entre em contato pelo e-mail pelo abaixo
+
+E-mail: dhevictor@gmail.com
+linktree: https://linktr.ee/Yanni_Dhevictor
