@@ -1,4 +1,4 @@
-#Projeto: Análise de Dados no Comércio Eletrônico Gamer
+# Projeto: Análise de Dados no Comércio Eletrônico Gamer
 
 Este projeto analisa dados coletados de um e-commerce gamer, focado em peças de computador como GPUs, CPUs, placas-mãe, e outros componentes. O objetivo é identificar tendências de vendas, categorias mais lucrativas e otimizar a gestão de estoque e receitas.
 
