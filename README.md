@@ -6,7 +6,7 @@ Este projeto analisa dados coletados de um e-commerce gamer, focado em peças de
  <img src="https://raw.githubusercontent.com/Yanni-Dhevictor/Webscrapping-Power-Bi---Amazon/refs/heads/main/4720780.jpg" height="560"/>
 </p>
 
-📋 Estrutura do Projeto
+## 📋 Estrutura do Projeto
 1. Entendimento do Negócio
 Segmento: Comércio eletrônico de produtos gamers.
 Objetivo: Maximizar lucros e otimizar operações com base em insights sobre vendas e comportamento do consumidor.
@@ -37,7 +37,7 @@ Produtos mais Vendidos x Produtos Melhor Avaliados
 Representatividade de Receita por Categoria
 
 
-💡 Insights Obtidos
+## 💡 Insights Obtidos
 
 1. Categorias Lucrativas
 Processadores e Placas de Vídeo são os principais geradores de receita.
@@ -49,13 +49,13 @@ Identificados picos de vendas durante eventos promocionais, como a Black Friday.
 4. Ticket Médio
 O ticket médio é consistente com o público gamer, sugerindo que os clientes estão dispostos a investir em qualidade.
 
-📦 Resultados Esperados
+## 📦 Resultados Esperados
 
 Aumento da Receita: Com foco nas categorias mais vendidas e melhorias no planejamento de promoções.
 Otimização de Estoque: Reduzir custos ao alinhar o inventário com padrões de compra.
 Melhoria na Satisfação do Cliente: Garantindo produtos em estoque e aprimorando itens populares.
 
-🚀 Como Executar o Notebook
+## 🚀 Como Executar o Notebook
 Instale as dependências do Python:
 bash
 Copiar código
@@ -66,7 +66,7 @@ Copiar código
 jupyter notebook "Projeto - Análise de Dados no Comércio Eletrônico Gamer - 30_10.ipynb"
 Execute as células para gerar as análises e gráficos.
 
-📈 Resultados no Dashboard
+## 📈 Resultados no Dashboard
 Um dashboard no Power BI foi integrado ao projeto para demonstrar os dados de forma visual e interativa. Ele contém as seguintes análises:
 
 Receita total e receita por categoria.
@@ -74,10 +74,10 @@ Produtos mais vendidos e mais bem avaliados.
 Representatividade das categorias no faturamento total.
 Estoque atual por categoria.
 
-📝 Contribuições
+## 📝 Contribuições
 Se você deseja contribuir com melhorias ou expandir este projeto, sinta-se à vontade para enviar um pull request ou sugestões!
 
-📧 Contato
+## 📧 Contato
 Para dúvidas ou mais informações, entre em contato pelo e-mail pelo abaixo
 
 E-mail: dhevictor@gmail.com
