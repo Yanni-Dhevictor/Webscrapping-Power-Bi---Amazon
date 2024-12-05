@@ -74,6 +74,11 @@ Produtos mais vendidos e mais bem avaliados.
 Representatividade das categorias no faturamento total.
 Estoque atual por categoria.
 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/Yanni-Dhevictor/Webscrapping-Power-Bi---Amazon/refs/heads/main/Dash%20screenshot.png" height="560"/>
+</p>
+
+
 ## 📝 Contribuições
 Se você deseja contribuir com melhorias ou expandir este projeto, sinta-se à vontade para enviar um pull request ou sugestões!
 
