@@ -78,6 +78,8 @@ Estoque atual por categoria.
  <img src="https://raw.githubusercontent.com/Yanni-Dhevictor/Webscrapping-Power-Bi---Amazon/refs/heads/main/Dash%20screenshot.png" height="560"/>
 </p>
 
+### Link direto para o dash [aqui](https://bit.ly/4f8acjw). 
+
 
 ## 📝 Contribuições
 Se você deseja contribuir com melhorias ou expandir este projeto, sinta-se à vontade para enviar um pull request ou sugestões!
