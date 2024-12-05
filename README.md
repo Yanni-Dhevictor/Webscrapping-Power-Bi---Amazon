@@ -1,8 +1,9 @@
-Projeto: Análise de Dados no Comércio Eletrônico Gamer
+#Projeto: Análise de Dados no Comércio Eletrônico Gamer
+
 Este projeto analisa dados coletados de um e-commerce gamer, focado em peças de computador como GPUs, CPUs, placas-mãe, e outros componentes. O objetivo é identificar tendências de vendas, categorias mais lucrativas e otimizar a gestão de estoque e receitas.
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/Yanni-Dhevictor/Webscrapping-Power-Bi---Amazon/refs/heads/main/4720780.jpg" height="565"/>
+ <img src="https://raw.githubusercontent.com/Yanni-Dhevictor/Webscrapping-Power-Bi---Amazon/refs/heads/main/4720780.jpg" height="560"/>
 </p>
 
 📋 Estrutura do Projeto
@@ -53,6 +54,7 @@ O ticket médio é consistente com o público gamer, sugerindo que os clientes e
 Aumento da Receita: Com foco nas categorias mais vendidas e melhorias no planejamento de promoções.
 Otimização de Estoque: Reduzir custos ao alinhar o inventário com padrões de compra.
 Melhoria na Satisfação do Cliente: Garantindo produtos em estoque e aprimorando itens populares.
+
 🚀 Como Executar o Notebook
 Instale as dependências do Python:
 bash
@@ -71,7 +73,6 @@ Receita total e receita por categoria.
 Produtos mais vendidos e mais bem avaliados.
 Representatividade das categorias no faturamento total.
 Estoque atual por categoria.
-
 
 📝 Contribuições
 Se você deseja contribuir com melhorias ou expandir este projeto, sinta-se à vontade para enviar um pull request ou sugestões!
